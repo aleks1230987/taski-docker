@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Файл main.yml
 # Имя workflow
 name: Main Taski Workflow
@@ -24,3 +25,6 @@ jobs:
       # Выполняем команду tree в текущей директории
       - name: Print project tree
         run: tree .
+=======
+
+>>>>>>> 39969041246e8cc3fa4b0a8a82398efbe1390d67
